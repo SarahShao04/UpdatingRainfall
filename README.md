@@ -147,10 +147,11 @@ Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Central African Republ
 
 ---
 
-## Author
+## Authors
 
-Dr. David Jacho-Chávez
-Dr. Huynh, Kim P
-Dr. Eloriaga, Justin Raymond
-Sarah Shao — Research Assistant
+
+- Dr. David Jacho-Chávez
+- Dr. Kim P. Huynh
+- Dr. Justin Raymond Eloriaga
+- Sarah Shao
 
