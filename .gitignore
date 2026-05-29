@@ -23,3 +23,6 @@ venv/
 # Intermediate / temp
 *.tmp
 *.log
+
+# Raw GPCP NetCDF files (large binary; re-downloadable via notebook Cell 33)
+data/raw/gpcp/
